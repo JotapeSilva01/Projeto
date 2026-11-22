@@ -4,6 +4,20 @@
 
 ---
 
+## 🌐 Acesse o sistema online
+
+**👉 [projeto-beta-puce.vercel.app](https://projeto-beta-puce.vercel.app)**
+
+O sistema está publicado na Vercel com banco de dados PostgreSQL (Neon), então tudo o que for cadastrado fica salvo.
+
+Para entrar como **gestor** e testar todas as funcionalidades:
+
+| E-mail | Senha |
+|---|---|
+| `admin@senai.br` | `Admin@123` |
+
+---
+
 ## 📋 Contexto do Projeto
 
 Em instituições de ensino técnico e profissionalizante como o **SENAI**, a gestão de docentes e a distribuição de turmas é um processo altamente complexo. Os coordenadores e orientadores enfrentam desafios diários como:
